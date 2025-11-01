@@ -29,7 +29,7 @@ public class all {
 class Dosen {
     private String nama;
     private String nip;
-    private List<Mahasiswa> daftarBimbingan; // Atribut untuk menyimpan daftar Mahasiswa
+    private List<Mahasiswa> daftarBimbingan; 
 
     public Dosen(String nama, String nip) {
         this.nama = nama;
@@ -95,3 +95,4 @@ class Mahasiswa {
     }
 
 }
+
