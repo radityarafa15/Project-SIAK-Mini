@@ -20,9 +20,9 @@ public class mahasiswa {
             System.out.println("Mahasiswa " + this.nama + " belum memiliki pembimbing.");
         }
     }
-    //getter
     public String getNama() {
         return this.nama;
     }
 
 }
+
